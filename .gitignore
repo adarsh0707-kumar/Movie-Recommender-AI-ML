@@ -1,2 +1,7 @@
-
-similarity.pkl
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+.venv/
+*.pkl
+.venv/
+venv/
