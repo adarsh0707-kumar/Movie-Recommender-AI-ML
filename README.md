@@ -2,6 +2,9 @@
 
 **🔗 Live demo:** https://movie-recommender-ai-ml-tlwmplmuwglcjjlqxqg2kx.streamlit.app/
 
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?logo=buy-me-a-coffee\&logoColor=white)](https://buymeacoffee.com/adarsh12kumar)' README.md
+
 A content-based movie recommendation system built with Python and scikit-learn.
 Pick any movie from the TMDB 5000 dataset, and the app suggests 5 similar
 titles based on plot, genre, keywords, cast, and director — served through
@@ -146,3 +149,7 @@ Contributions and suggestions are welcome — feel free to open an issue or PR.
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+If this project was useful to you, consider [buying me a coffee ☕](https://buymeacoffee.com/adarsh12kumar).
